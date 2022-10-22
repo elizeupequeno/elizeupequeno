@@ -1,4 +1,4 @@
-### Olá! Eu sou o Elizeu Pequeno👋
+### Olá! Eu sou o Elizeu Pequeno, Desenvolvedor Front-end👋
 
 <div align="center">
   <a href="https://github.com/elizeupequeno">
