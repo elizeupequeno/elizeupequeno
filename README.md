@@ -1,8 +1,5 @@
 ### Olá! Eu sou o Elizeu Pequeno👋
 
-- 🔭 Hoje trabalho com front-end
-- 🌱 Estudando Javascript
-
 <div align="center">
   <a href="https://github.com/elizeupequeno">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=elizeupequeno&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
